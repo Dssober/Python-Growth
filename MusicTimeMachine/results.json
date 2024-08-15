@@ -1,0 +1,26 @@
+{
+    "display_name": "Dylan Sober",
+    "external_urls": {
+        "spotify": "https://open.spotify.com/user/1216405016"
+    },
+    "href": "https://api.spotify.com/v1/users/1216405016",
+    "id": "1216405016",
+    "images": [
+        {
+            "url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/396715508_10160769961362795_5156874488843596987_n.jpg?stp=cp0_dst-jpg_p50x50&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=PSdLULw7DtYAb5s8Z-b&_nc_ht=scontent-iad3-2.xx&edm=AP4hL3IEAAAA&oh=00_AfCqSQrksEGUssB9dAYyXZJtyBrBC9JIN54O4cvfu0fZpQ&oe=66283E32",
+            "height": 64,
+            "width": 64
+        },
+        {
+            "url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/396715508_10160769961362795_5156874488843596987_n.jpg?stp=dst-jpg_p320x320&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=PSdLULw7DtYAb5s8Z-b&_nc_ht=scontent-iad3-2.xx&edm=AP4hL3IEAAAA&oh=00_AfBGpKIlZOowK1mV79T7ptULSlh0FjxZRUr2uxI9W6PvXg&oe=66283E32",
+            "height": 300,
+            "width": 300
+        }
+    ],
+    "type": "user",
+    "uri": "spotify:user:1216405016",
+    "followers": {
+        "href": null,
+        "total": 9
+    }
+}
